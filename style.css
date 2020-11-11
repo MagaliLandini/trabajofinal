@@ -1,0 +1,73 @@
+body{
+    background-color: #fff1e6 !important;
+    height: 100vh !important;
+    max-width: 100% !important;
+    /* overflow-x: hidden; */
+    /* box-sizing: content-box;
+
+    max-width: 98% !important; */
+  
+}
+.encabezado {
+    
+background-color: #eddcd2 ;
+/* /* box-sizing: content-box; */
+width: 100%;
+
+}
+.footer{
+    background-color: #ffcdb2;
+    font-size: 2rem;
+  
+    /* box-sizing: content-box;
+width: 100%; */
+}
+
+
+.icono{
+    height: 50px;;
+}
+.seccion1 {
+    margin-top: 80px;
+    font-family: 'Lobster Two', cursive;
+    font-size: 1.5rem;
+    
+
+}
+
+
+.seccion2 {
+    margin-bottom: 200px;
+    margin-top: 200px;
+    font-family: 'Lobster Two', cursive;
+}
+.lista1, .lista2 {
+    font-family: 'Playball', cursive !important;
+    font-size: 3rem;
+}
+.lista3, .lista4 {
+    font-family: 'Lobster Two', fantasy;
+    font-size: 1.8rem;
+}
+.programador {
+   
+    height: 400px;
+}
+.html {
+    height: 250px;
+   
+}
+
+.huerta{
+    height: 150px;
+    margin-top: 150px;
+}
+
+.lenguajes{
+    height: 200px;
+    margin-top: 150px;
+}
+
+#git, #face, #email{
+    cursor:pointer ;
+}
